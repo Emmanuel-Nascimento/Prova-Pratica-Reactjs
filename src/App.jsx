@@ -1,5 +1,5 @@
-import LD from './LadoDireito'
-import LE from './LadoEsquerdo'
+import LD from './components/LadoDireito'
+import LE from './components/LadoEsquerdo'
 import './App.css'
 
 function App() {
