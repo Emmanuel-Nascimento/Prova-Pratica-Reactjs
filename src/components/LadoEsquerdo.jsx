@@ -19,7 +19,7 @@ export default function LE() {
             mais.
           </p>
         </div>
-        <small>&copy; Criado por Nome do Aluno e Matrícula 000000000</small>
+        <small>&copy; Criado por Emmanuel Nascimento de Oliveira Matrícula 37022201 e Edimar Gabriel Marques Mina Matrícula 37021899</small>
       </div>
     </aside>
   );
